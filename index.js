@@ -1,4 +1,4 @@
-const TelegramBot = require('BOT')
+const TelegramBot = require('bot')
 
 const TOKEN = '694628895:AAHsQczE9ON9jj7VFnmvMdgKKQmYkT1hvOU'
 
